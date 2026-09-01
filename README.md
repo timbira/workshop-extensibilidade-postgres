@@ -1,4 +1,4 @@
-# [GambiConf 2025](https://gambiconf.dev/)
+# Workshop Extensibilidade no PostgreSQL
 
 ## Introdução
 
